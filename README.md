@@ -1,5 +1,5 @@
 # OAuth2_Summary
-There are 4 OAuth2 types
+## There are 4 OAuth2 types
 
 1. Authorization Code Flow
 
@@ -13,4 +13,9 @@ There are 4 OAuth2 types
 
 2. Implicit Flow
 3. Resouce Owner Credential Flow
+
+![Step1a](Resouce%20Owner%20Credential%20Flow(step1a).png)
+![Step1b](Resouce%20Owner%20Credential%20Flow(step1b).png)
+![Step2](Resouce%20Owner%20Credential%20Flow(step2).png)
+
 4. Client Credential Flow
