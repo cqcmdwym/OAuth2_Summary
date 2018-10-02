@@ -18,4 +18,5 @@
 ![Step1b](Resouce%20Owner%20Credential%20Flow(step1b).png)
 ![Step2](Resouce%20Owner%20Credential%20Flow(step2).png)
 
-4. Client Credential Flow
+4. Client Credential Flow (something like 2legged)
+![](Client%20Credential%20Flow.png)
